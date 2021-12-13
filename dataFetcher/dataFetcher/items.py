@@ -12,5 +12,7 @@ class DatafetcherItem(scrapy.Item):
     region = scrapy.Field()
     confirmed = scrapy.Field()
     deceased = scrapy.Field()
+    active = scrapy.Field()
+    recovered = scrapy.Field()
     vaccinated = scrapy.Field()
     population = scrapy.Field()

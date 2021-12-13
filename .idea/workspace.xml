@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8d22d80-0859-4986-86f2-66e1eff80818" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/covid19dataAnalyzer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/covid19dataAnalyzer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataFetcher/dataFetcher/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataFetcher/dataFetcher/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataFetcher/dataFetcher/spiders/ncov2019.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataFetcher/dataFetcher/spiders/ncov2019.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +37,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="/Library/Frameworks/Python.framework/Versions/3.10/bin/python3.10" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="et" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -75,6 +79,7 @@
       <updated>1639063942810</updated>
       <workItem from="1639063950341" duration="658000" />
       <workItem from="1639065535574" duration="15158000" />
+      <workItem from="1639359321930" duration="504000" />
     </task>
     <servers />
   </component>
@@ -103,6 +108,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
