@@ -8,8 +8,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/covid19dataAnalyzer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/covid19dataAnalyzer.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/dataFetcher/dataFetcher/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataFetcher/dataFetcher/items.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dataFetcher/dataFetcher/spiders/ncov2019.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataFetcher/dataFetcher/spiders/ncov2019.py" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/analyzer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analyzer.ipynb" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +41,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< Updated upstream
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+    <property name="last_opened_file_path" value="/Library/Frameworks/Python.framework/Versions/3.10/bin/python3.10" />
+>>>>>>> Stashed changes
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -78,8 +86,12 @@
       <option name="presentableId" value="Default" />
       <updated>1639063942810</updated>
       <workItem from="1639063950341" duration="658000" />
+<<<<<<< Updated upstream
       <workItem from="1639065535574" duration="15158000" />
       <workItem from="1639359321930" duration="504000" />
+=======
+      <workItem from="1639065535574" duration="28639000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
